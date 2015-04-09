@@ -7,4 +7,4 @@ t    新しいタブを開く
 f    新しいリンクを開く
 x    タブを閉じる
 
-myou myou test
+myou myou test 削除したい
